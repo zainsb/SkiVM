@@ -1,0 +1,30 @@
+body{
+	background:#85ADFF;
+	font-family:'Source Sans Pro', sans-serif;
+
+	font-size:100%;
+}
+
+a:visited {
+    color: #6600FF;
+}
+
+div {
+    background-color: cadetblue;
+    width: 300px;
+    float: center;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 150px auto;
+}
+
+table {
+    background-color: cadetblue;
+    color: white;
+    margin: 50px auto;
+    border-color: black;
+}
+
+p{
+    text-align: center;
+}
